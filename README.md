@@ -1,13 +1,16 @@
 # Weather---App
 
-Name: ROOP SAGAR S L  Reg no: 212223040175
+Name: ROOP SAGAR S L  
+
+Reg no: 212223040175
 
 Build a Weather App using React
 
-Objective
+# Objective
+
 Create a simple weather application using React that allows the user to enter a city name and view simulated weather data such as temperature, wind speed, and sky condition.
 
-Task Description
+# Task Description
 Develop a weather app that:
 
 Accepts a city name from the user
@@ -16,7 +19,7 @@ Displays weather information (temperature, wind speed, sky condition) only for p
 
 Shows an error message for cities not in the mock data
 
-Requirements
+# Requirements
 React functional component (WeatherApp)
 
 Text input to enter city name
@@ -29,7 +32,7 @@ Error message for invalid cities
 
 Basic styling using external or inline CSS
 
-PROGRAM:
+# PROGRAM:
 ```
 index.js
 
